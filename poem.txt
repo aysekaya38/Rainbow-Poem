@@ -2,6 +2,7 @@ The rainbow
 Pink 
 Orhange 
 Blue
+White
 All color
 Green
 Yellow
