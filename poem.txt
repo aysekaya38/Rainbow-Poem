@@ -3,6 +3,7 @@ Pink
 Orhange 
 Blue
 White
+Hot
 All color
 Green
 Yellow
